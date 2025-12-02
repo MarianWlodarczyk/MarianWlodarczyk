@@ -65,4 +65,3 @@ Crafting clean architecture, optimizing performance, and enabling business growt
 - [GitHub](https://github.com/username)  
 - [Email](mailto:username@example.com)
 
----
