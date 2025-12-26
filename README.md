@@ -64,4 +64,4 @@ Crafting clean architecture, optimizing performance, and enabling business growt
 - [LinkedIn](https://linkedin.com/in/username)  
 - [GitHub](https://github.com/username)  
 - [Email](mailto:username@example.com)
-----
+
